@@ -24,7 +24,9 @@ The overhead tank is made up opaque material to prevent algae growth and is clos
   * Test the results using your mobile phone
 
 ## Design Layout
-
+  <!---Add image--->
+  * ![Study for Finals](https://github.com/Snortey/My-Miniproject/blob/569fd8ecd7b8f7b6c4c920430e76b07bef5be8e5/Screenshots/combination%20schematics.JPG)
+  * ![Study for Finals](https://github.com/Snortey/My-Miniproject/blob/569fd8ecd7b8f7b6c4c920430e76b07bef5be8e5/Screenshots/Tank%20Calculations.JPG)
 ## Test Results
    Procedure                                    ExpectedResults	                                                Validation
   * User request data using “STATE”	--SMS indicating the percentage used, percentage left and average readings--Valid
@@ -35,10 +37,12 @@ The overhead tank is made up opaque material to prevent algae growth and is clos
 
   Test results Images
   <!---Add image--->
-  * ![Study for Finals]
-  * ![Study for Finals]
-  * ![Study for Finals]
-  * ![Study for Finals]
+   * ![Study for Finals](https://github.com/Snortey/My-Miniproject/blob/569fd8ecd7b8f7b6c4c920430e76b07bef5be8e5/Screenshots/IMG_20220924_183034_078.jpg)
+   * ![Study for Finals](https://github.com/Snortey/My-Miniproject/blob/569fd8ecd7b8f7b6c4c920430e76b07bef5be8e5/Screenshots/IMG_20220927_230314_071.jpg)
+   * ![Study for Finals](https://github.com/Snortey/My-Miniproject/blob/569fd8ecd7b8f7b6c4c920430e76b07bef5be8e5/Screenshots/Screenshot_20220927-185051.jpg)
+   * ![Study for Finals](https://github.com/Snortey/My-Miniproject/blob/569fd8ecd7b8f7b6c4c920430e76b07bef5be8e5/Screenshots/Screenshot_20220927-185100.jpg)
+   * ![Study for Finals](https://github.com/Snortey/My-Miniproject/blob/569fd8ecd7b8f7b6c4c920430e76b07bef5be8e5/Screenshots/IMG_20220927_231116_592.jpg)
+   * ![Study for Finals](https://github.com/Snortey/My-Miniproject/blob/569fd8ecd7b8f7b6c4c920430e76b07bef5be8e5/Screenshots/IMG-20220821-WA0008.jpg)
 
 ## Limitation
   * The ultrasonic sensor (HC-SR04) used in this work measures distance in the range of 2cm to 400cm with accuracy of 3mm.
