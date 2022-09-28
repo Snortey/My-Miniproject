@@ -1,0 +1,10 @@
+1. Install Arduino IDE
+2. Install the software serial Library
+3. Arduino Uno board
+4. GSM Module Sim900D
+5. Ultrasonic sensor
+6. Mini breadboard
+7. Jumper cabels(male to female and male to male)
+8. RGB lED
+9. 10 Ohm resistor
+10. Prepaid SIM card
